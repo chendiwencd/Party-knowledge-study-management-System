@@ -1,4 +1,4 @@
-# Party-knowledge-study-management-System
+# Party building knowledge learning management system
 Management Party building knowledge learning, a simple and systematic reproduction
 该系统分为两部分，管理员部分和学生部分
 管理员部分实现的功能包括：学生信息管理，对学生账号信息，学习情况进行修改
